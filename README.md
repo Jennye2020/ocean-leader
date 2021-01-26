@@ -1,2 +1,2 @@
-# ocean-leader
+# waves-leader
 Ship Captain 
